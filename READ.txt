@@ -6,3 +6,5 @@ This is the first file of the respository. Updating file and doing it again
 
 Push command
 yes
+
+POLL SCM
